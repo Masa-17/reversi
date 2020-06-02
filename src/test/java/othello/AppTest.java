@@ -1,0 +1,4 @@
+package othello;
+
+class AppTest {
+}
